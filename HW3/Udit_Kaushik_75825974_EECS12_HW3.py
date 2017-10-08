@@ -1,8 +1,4 @@
-#Udit Kaushik                   #                         
-#75825974                       #                   
-#Summer Session 1               #
-#EECS 12                        #
-#################################
+#Quicksort Algorithm 
 
 def get_data():
     """
