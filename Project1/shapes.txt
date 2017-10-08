@@ -1,0 +1,18 @@
+Triangle
+Quadrilateral (or Tetragon)
+Pentagon
+Hexagon
+Heptagon (or Septagon)
+Octagon
+Nonagon (or Enneagon)
+Decagon
+Hendecagon (or Undecagon)
+Dodecagon
+Triskaidecagon
+Tetrakaidecagon
+Pentadecagon
+Hexakaidecagon
+Heptadecagon
+Octakaidecagon
+Enneadecagon
+Icosagon
