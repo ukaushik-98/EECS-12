@@ -1,7 +1,3 @@
-#Udit Kaushik                   #                         
-#Summer Session 1               #
-#EECS 12                        #
-#################################
 def data():
     """
         This function gets the data from the user and places it into a list of strings.
