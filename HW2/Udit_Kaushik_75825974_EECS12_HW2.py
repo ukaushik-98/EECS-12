@@ -1,8 +1,3 @@
-#Udit Kaushik                   #                         
-#75825974                       #                   
-#Summer Session 1               #
-#EECS 12                        #
-#################################
 def pnp(a, b):
     """
     This is the pass/no pass function.
